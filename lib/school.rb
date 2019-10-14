@@ -21,5 +21,5 @@ class School
 
   def sort(grade,student)
     roster[grade][student].sort
-  end 
+  end
 end
