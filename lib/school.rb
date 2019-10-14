@@ -14,5 +14,4 @@ class School
       roster[student_grade] << [student_name]
     end
   end
-
 end
