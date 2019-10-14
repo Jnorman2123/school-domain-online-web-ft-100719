@@ -19,7 +19,7 @@ class School
     roster[grade]
   end
 
-  def sort
-    roster[grade][@name].sort
-  end
+  # def sort
+  #   roster[grade][@name].sort
+  # end
 end
